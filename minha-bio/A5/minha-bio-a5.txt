@@ -1,0 +1,22 @@
+Aula do exercicio A00 5 que tinha que fazer os itens abaixo
+Exercício 1: você deve estar na pasta do repositório local, dentro da branch minha-bio, onde você colocou um arquivo de texto descrevendo uma mini biografia sua.
+Dê o comando git status no terminal para verificar que o git reconheceu as suas mudanças
+Após isso, adicione as mudanças realizadas na staging area utilizando o comando git add .
+Por fim, vamos realizar um commit! Para isso, utilize o comando git commit -m "Criado arquivo de biografia"
+Exercício 2: agora que as modificações foram commitadas, a gente pode abrir um pull request para pedir permissão para juntar as mudanças que fizemos no repo local (pasta minha-bio com arquivo de biografia) com o repo remoto (que está lá no Git Hub)
+Suba a sua branch com mudanças no repositório remoto com o comando git push origin minha-bio
+Vá ao Github e abra o seu Pull Request pela interface do site, como visto em aula
+Faça o Merge do PR no seu repo
+Parabéns! Sua primeira entrega no git hub foi feita com sucesso!
+Exercício 3: Para fixar melhor, vamos repetir todo o processo desde o início
+Volte para a branch main
+Execute o git pull
+Crie uma nova branch: git-e-git-hub
+Crie uma pasta no repositório local chamada musicas
+Dentro dessa pasta, crie um arquivo musicas.txt
+Nesse arquivo, faça uma lista com suas 5 músicas favoritas
+Ao terminar, adicione as mudanças realizadas à staging area (git add .)
+Realize o commit com uma mensagem dizendo "adicionadas as 5 músicas"
+Suba o que você fez para o repositório remoto
+Abra um novo PR, e na descrição do PR, escreva os nomes das músicas e os artistas
+Faça o Merge do PR
